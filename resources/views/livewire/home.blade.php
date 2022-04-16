@@ -35,6 +35,7 @@
 
                     <div class="ml-12">
                         <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                            <code class=" font-bold">.env</code><br>
                             <code class=" font-bold">composer update</code><br>
                             <code class=" font-bold">npm install</code><br>
                             <code class=" font-bold">npm run dev</code><br>
